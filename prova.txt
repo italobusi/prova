@@ -2,4 +2,6 @@ primo update (review)
 
 secondo update (review after update)
 
-terzo update
+terzo update (prima dello snapshot)
+
+quarto update (dopo lo snapshot)
