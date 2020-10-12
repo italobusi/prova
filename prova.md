@@ -1,2 +1,2 @@
 - prova lista
-&nbsp;prova
+ prova
